@@ -1,0 +1,5 @@
+year,agriculture,industry,services
+2015,12,28,60
+2016,30,40,30
+2017,40,20,40
+
