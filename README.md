@@ -6,4 +6,4 @@ dash-html-components==0.11.0
 dash-core-components==0.23.0  
 plotly --upgrade
 
-![Demo](https://user-images.githubusercontent.com/31709292/57982479-57bfd580-7a46-11e9-87c1-393c0bfc5061.gif)
+![v2](https://user-images.githubusercontent.com/31709292/58203528-9372cd80-7cda-11e9-8639-f48cdd5a8929.gif)
